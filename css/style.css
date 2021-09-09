@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+
+    background-color:greenyellow;
+    height: 100px;
+    text-align: center;
+    font-size: large
+}
+
+nav{
+    background-color: darksalmon;
+    height: 60px;
+    font-size: large;
+    text-align: center;
+}
+
+.blogSection{
+    
+    height: 500px;
+    overflow: hidden;
+    font-size: large;
+}
+
+.blog1{
+    background-color: cyan;
+    height: 500px;
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 70%;
+}
+
+.article1{
+
+    background-color: cyan;
+    height: 10%;
+    text-align: center;
+    font-size:smaller;
+    width:100%;
+
+}
+
+.header1{
+  background-color:lime;
+    height: 10%;
+    text-align: center;
+    font-size:smaller;
+    width:100%;
+    
+}
+
+.blank{
+    background-color: linen;
+    height: 40%;
+    width: 100%;
+}
+
+.section1{
+    background-color: palevioletred;
+    height: 15%;
+    width: 100%;
+    font-size: medium;
+
+}
+
+.section12{
+
+    background-color:mediumpurple;
+    height: 15%;
+    width: 100%;
+    font-size: medium;
+
+
+}
+
+.footer1{
+    background-color:yellow;
+    height: 10%;
+    width: 100%;
+    font-size: medium;
+
+
+}
+
+
+.blog2{
+    background-color: gold;
+    height: 500px;
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 30%;
+
+}
+
+.div2{
+
+    background-color: gold;
+    height: 10%;
+    
+
+}
+
+.aside21{
+
+    background-color: crimson;
+    height: 45%;
+}
+
+.aside22{
+    background-color: teal;
+    height: 45%;
+
+}
+
+footer{
+    background-color :red;
+    text-align: center;
+}
